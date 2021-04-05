@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">M08Uf2</string>
+    <string name="cameraFoto">Fer fotos</string>
+    <string name="grabarAudio">Enregistrar audio</string>
+    <string name="reproductorVideo">Reproductor video</string>
+    <string name="idGrabar">Grabar</string>
+    <string name="idPausar">Pausar</string>
+    <string name="idAturar">Aturar</string>
+    <string name="idTitolAudio">Enregistrar Audio</string>
+    <string name="idFerFoto">Fer Foto</string>
+    <string name="buffering_string">buffering</string>
+    <string name="toast_message">Playback completed.</string>
+</resources>
